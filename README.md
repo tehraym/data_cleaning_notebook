@@ -5,7 +5,7 @@ When exploring investment prospects in Malaysia, property investment stands out 
 Malaysia is well-known for its accommodating mortgage policies, permitting Malaysian citizens to obtain financing of up to 90% for their first two residential properties. Additionally, the country's property market offers a wide array of options, catering to diverse investment preferences and strategies. 
 
 Therefore it is important to investigate the disparities in properties details between different regions. As this allows us to study underlying economic, demographic, and social dynamics for a particular region.
-For Example: Properties that are near to KL city centers, tend to fetch a higher selling price as there are abundance amount of job opportunities.
+For Example: Properties that are near to KL city centers, tend to fetch a higher selling price as there are abundance amount of job opportunities near that area.
 
 ## Methodology
 - Loading the data up in Jupyter Notebook using Pandas Library
@@ -13,7 +13,7 @@ For Example: Properties that are near to KL city centers, tend to fetch a higher
 - Categorical Variables: Techniques for incorporating new categorical variables to enrich the dataset.
 - Identifying and Handling Outliers: Methods for detecting and managing outliers in the property data.
 - Preparing Data for Visualization: Steps to prepare the dataset for effective visualization and analysis.
-- Summary Statistics for all Regions in Kuala Lumpur: An overview of summary statistics and plots for each region in Kuala Lumpur.
+- Summary Statistics for all Regions in Kuala Lumpur: An overview of summary statistics and plots for each region in Kuala Lumpur.\
 (Python will serve as the primary tool for our analysis)
 
 ## Disclaimer: Use of WebScraped Data
