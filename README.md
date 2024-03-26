@@ -5,6 +5,7 @@ When exploring investment prospects in Malaysia, property investment stands out 
 Malaysia is well-known for its accommodating mortgage policies, permitting Malaysian citizens to obtain financing of up to 90% for their first two residential properties. Additionally, the country's property market offers a wide array of options, catering to diverse investment preferences and strategies. 
 
 Therefore it is important to investigate the disparities in properties details between different regions. As this allows us to study underlying economic, demographic, and social dynamics for a particular region.
+
 For Example: Properties that are near to KL city centers, tend to fetch a higher selling price as there are abundance amount of job opportunities near that area.
 
 ## Methodology
@@ -24,6 +25,7 @@ Web scraping involves automated extraction of data from websites using software 
 
 ## Limitations and Risks:
 Accuracy: The data used in this analysis do not necessarily reflect the current state of the property market.They have been sourced from property listing websites specifically for this analysis. It's important to note that certain locations may have insufficient data due to a lack of listings in those areas.
+
 For Example: When a region have lesser rows data, it does not mean that that area is not highly populated, it means that there is lack of listing in that region.
 
 Intended Use: The data presented on this platform is for educational purposes only. It is intended to facilitate learning, research, and analysis. Any use of this data for illegal or unethical purposes, including but not limited to criminal activities, is strictly prohibited.
