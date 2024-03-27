@@ -1,12 +1,11 @@
-# Data Cleaning & Exploring Key Metrics for Property Investors/Buyers in Kuala Lumpur city
+# Exploring Key Metrics for Properties in Kuala Lumpur City
 
 ## Introduction & Problem Statement
-When exploring investment prospects in Malaysia, property investment stands out as a compelling option.
-Malaysia is well-known for its accommodating mortgage policies, permitting Malaysian citizens to obtain financing of up to 90% for their first two residential properties. Additionally, the country's property market offers a wide array of options, catering to diverse investment preferences and strategies. 
+When exploring investment prospects in Malaysia, property investment stands out as a compelling option. Especially with favorable mortgage policies. Allowing Malaysian citizens to obtain financing of up to 90% for their first two residential properties property.
 
-Therefore it is important to investigate the disparities in properties details between different regions. As this allows us to study underlying economic, demographic, and social dynamics for a particular region.
+Understanding the disparities in properties details between different regions is crucial for making informed decisions.  As this allows us to study underlying economic, demographic, and social dynamics for a particular region.
 
-For Example: Properties that are near to KL city centers, tend to fetch a higher selling price as there are abundance amount of job opportunities near that area.
+For Example: Properties that are near to KL city centers, tend to fetch a higher selling price as there are abundance amount of job opportunities, excellent accessibility via transportation networks and proximity to various amenities.
 
 ## Methodology
 - Loading the data up in Jupyter Notebook using Pandas Library
